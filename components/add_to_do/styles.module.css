@@ -1,0 +1,7 @@
+.addToDoForm{
+    display: block;
+}
+
+.addToDoForm input, .addToDoForm label{
+    display:inline-block;
+}
